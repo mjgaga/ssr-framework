@@ -1,0 +1,18 @@
+{
+  "default": {
+    "site_name": "Affectionate",
+    "slogan" : "Just watch beautiful",
+    "home": "Home",
+    "nav1": "nav 1",
+    "nav2": "nav 2",
+    "nav3": "nav 3",
+    "nav4": "nav 4",
+    "nav5": "nav 5",
+    "nav6": "nav 6",
+    "nav7":"nav 7",
+    "welcome": "Welcome %s & %s"
+  },
+  "home": {
+    "new videos": "New Videos"
+  }
+}

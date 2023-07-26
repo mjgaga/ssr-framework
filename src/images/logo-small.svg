@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 63" preserveAspectRatio="xMidYMid meet" color-interpolation-filters="sRGB">
+    <g fill="rgb(252,252,252)">
+        <g  opacity="1">
+            <g>
+                <rect fill="rgb(252,252,252)" fill-opacity="0" stroke-width="2" x="0" y="0" width="60" height="61"></rect>
+                <svg x="0" y="0" width="60" height="61.65544880028773">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80.45999908447266 82.68000030517578">
+                        <g>
+                            <g>
+                                <path fill="rgb(252,252,252)" d="M43.75 0h36.71v82.68H43.75z"></path>
+                                <path fill="rgb(66,138,237)"  d="M80.25 27.95H36.71V0H0v82.68h36.71V59.21h43.54V27.95z"></path>
+                            </g>
+                        </g>
+                    </svg>
+                </svg>
+            </g>
+        </g>
+    </g>
+</svg>

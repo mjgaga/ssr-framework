@@ -1,0 +1,45 @@
+h1, h2, h3, h4, h5, h6, ul, li, dl, dt, dd, form, img, body, p {
+  border-style: none;
+  border-color: inherit;
+  border-width: medium;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+body {
+  font-size: 14px;
+  font-family: "microsoft yahei", "STXihei", serif;
+  background: #fff;
+}
+
+* {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  outline: none;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+
+a {
+  text-decoration: none;
+}
+
+.textEllipsis() {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+::-ms-clear, ::-ms-reveal {
+  display: none;
+}
+::-ms-clear { width: 0; height: 0; }
+
+.clearfix:after,
+.clearfix:before{
+  content:" ";display:table;
+}
+.clearfix:after{
+  clear:both;
+}
